@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||doubleclick.net",
+      "resourceTypes": [
+        "main_frame",
+        "csp_report",
+        "font",
+        "image",
+        "media",
+        "object",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "webbundle",
+        "websocket",
+        "webtransport",
+        "xmlhttprequest",
+        "other"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||googletagmanager.com",
+      "resourceTypes": [
+        "main_frame",
+        "csp_report",
+        "font",
+        "image",
+        "media",
+        "object",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "webbundle",
+        "websocket",
+        "webtransport",
+        "xmlhttprequest",
+        "other"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||tcp.dl.google.com",
+      "resourceTypes": [
+        "main_frame",
+        "csp_report",
+        "font",
+        "image",
+        "media",
+        "object",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "webbundle",
+        "websocket",
+        "webtransport",
+        "xmlhttprequest",
+        "other"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||google-analytics.com",
+      "resourceTypes": [
+        "main_frame",
+        "csp_report",
+        "font",
+        "image",
+        "media",
+        "object",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "webbundle",
+        "websocket",
+        "webtransport",
+        "xmlhttprequest",
+        "other"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||googleadservices.com",
+      "resourceTypes": [
+        "main_frame",
+        "csp_report",
+        "font",
+        "image",
+        "media",
+        "object",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "webbundle",
+        "websocket",
+        "webtransport",
+        "xmlhttprequest",
+        "other"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||googlesyndication.com",
+      "resourceTypes": [
+        "main_frame",
+        "csp_report",
+        "font",
+        "image",
+        "media",
+        "object",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "webbundle",
+        "websocket",
+        "webtransport",
+        "xmlhttprequest",
+        "other"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||static.xx.fbcdn.net",
+      "resourceTypes": [
+        "main_frame",
+        "csp_report",
+        "font",
+        "image",
+        "media",
+        "object",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "webbundle",
+        "websocket",
+        "webtransport",
+        "xmlhttprequest",
+        "other"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||amazon-adsystem.com",
+      "resourceTypes": [
+        "main_frame",
+        "csp_report",
+        "font",
+        "image",
+        "media",
+        "object",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "webbundle",
+        "websocket",
+        "webtransport",
+        "xmlhttprequest",
+        "other"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||google.com.br",
+      "resourceTypes": [
+        "main_frame",
+        "csp_report",
+        "font",
+        "image",
+        "media",
+        "object",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "webbundle",
+        "websocket",
+        "webtransport",
+        "xmlhttprequest",
+        "other"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||l.google.com",
+      "resourceTypes": [
+        "main_frame",
+        "csp_report",
+        "font",
+        "image",
+        "media",
+        "object",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "webbundle",
+        "websocket",
+        "webtransport",
+        "xmlhttprequest",
+        "other"
+      ]
+    }
+  }
+]
